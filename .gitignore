@@ -96,3 +96,6 @@ pip-selfcheck.json
 
 # Rope project settings
 .ropeproject
+
+/boon-tut-vids/*
+!/boon-tut-vids/.gitkeep
