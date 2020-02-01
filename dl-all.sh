@@ -32,7 +32,8 @@ pip install -r requirements.txt
 # ./dl.sh complete-python-bootcamp
 # ./dl.sh nestjs-zero-to-hero
 # ./dl.sh aws-lambda-serverless
-./dl.sh universal-react-with-nextjs-the-ultimate-guide
-./dl.sh react-the-complete-guide-incl-redux
-./dl.sh understanding-typescript
-./dl.sh react-redux-tutorial
+# ./dl.sh universal-react-with-nextjs-the-ultimate-guide
+# ./dl.sh react-the-complete-guide-incl-redux
+# ./dl.sh understanding-typescript
+# ./dl.sh react-redux-tutorial
+./dl.sh modern-react-bootcamp
