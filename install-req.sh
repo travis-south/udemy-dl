@@ -4,3 +4,5 @@ sudo apt update; sudo apt install python-pip git -y; pip3 install awscli --upgra
 # Run export for aws keys
 export AWS_ACCESS_KEY_ID
 export AWS_SECRET_ACCESS_KEY
+
+./dl-all.sh > dl.log 2>&1 &
