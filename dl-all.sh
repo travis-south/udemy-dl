@@ -36,4 +36,6 @@ pip install -r requirements.txt
 # ./dl.sh react-the-complete-guide-incl-redux
 # ./dl.sh understanding-typescript
 # ./dl.sh react-redux-tutorial
-./dl.sh modern-react-bootcamp
+# ./dl.sh modern-react-bootcamp
+./dl.sh learn-devops-infrastructure-automation-with-terraform
+
